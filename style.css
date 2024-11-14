@@ -1,0 +1,203 @@
+.navBar{
+    border: solid rgb(192, 186, 186) .5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 60px;
+    width: 100%;
+    display: flex;
+
+}
+
+.navLogo{
+    border: solid white 1px;
+    width: 60px;
+    height: 30px;
+    margin: 10px;
+}
+
+.loginBtn{
+    border: solid white 1px;
+    width: 70px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 70%;
+}
+
+.newsBtn{
+    border: solid yellow 1px;
+    background-color: yellow;
+    width: 100px;
+    height: 35px;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.subBtn{
+    border: solid black 1px;
+    width:100px;
+    background-color: black;
+    height: 35px;
+    margin-left: 35px;  
+    margin-top: 10px;
+}
+
+.limitEdition{
+    border: solid black 1px;
+    width: 100%;
+    height:600px;
+   
+
+}
+
+
+
+.ntS{
+    width: 100%;
+    height: 600px;
+    //object-fit: contain;
+}
+
+.latestSt{
+    border: solid black 1px;
+    height: 1000px;
+    width:100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    //align-items: center;
+    
+}
+
+.header{
+    border: solid black 1px;
+    height: 120px;
+    padding: 10px;
+    //display: flex;
+    //flex-direction: column;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
+
+.underline{
+    text-decoration: underline yellow 2px;
+}
+
+
+
+
+.todayImg{
+    border:solid black 1px;
+    position: absolute;
+    top: 100%;
+    margin-right: 50%;
+    width: 200px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-height: 100%;
+    
+}
+
+#img1{
+    width:50%;
+    height: 50%;
+    
+}
+#img2{
+    height: 50%;
+    width: 50%;
+}
+
+#img3{
+    height: 50%;
+    width: 50%;
+    
+}
+
+#img4{
+    height: 50%;
+    width: 50%;
+}
+    
+#navbarlog{
+    color: black;
+    margin: 10px;
+}
+#navbarNews{
+    color: black;
+    margin: 10px;
+    
+
+}
+
+#navbarSub{
+    color: white;
+    margin: 10px;
+
+}
+
+.articleBox1{
+    border: solid white 2px;
+    width:310px;
+    height:390px;
+    position: absolute;
+    top: 100%;
+    margin-left: 5%;
+    background-color: white;
+
+}
+
+#articleTxt1Head{
+    color: grey;
+    margin-left:10px;
+    font-style: bold;
+}
+
+#articleTxt1Title{
+    color: rgb(61, 56, 56);
+    margin-left: 10px;
+    
+}
+
+.articleBox2{
+    border: solid white 2px;
+    width: 310px;
+    height: 390px;
+    position: absolute;
+    top: 100%;
+    margin-left: 60%;
+    background-color: white;
+}
+
+
+
+#art2Im{
+    width:310px;
+}
+
+
+.borderLine{
+    border: solid yellow 4px;
+    height: 1px;
+    width: 70px;
+    position: absolute;
+    top: 93%;
+}
+
